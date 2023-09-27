@@ -6,8 +6,8 @@ import random
 # eg. http_proxies.txt
 # change your speaker_id according to which speaker you want to bot votes for
 
-proxies_dir = '/Users/arianna/jesus/proxies/'
-voterinfo_dir = '/Users/arianna/jesus/voterinfo/'
+proxies_dir = '/proxies/'
+voterinfo_dir = '/voterinfo/'
 speaker_id = '43248'
 
 
