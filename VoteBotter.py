@@ -264,12 +264,12 @@ for i in range(0, amount):
     )
 
     def read_votecount():
-        with open('/Users/arianna/jesus/votecount.txt', 'r') as file:
+        with open('/votecount.txt', 'r') as file:
             votecount = int(file.read().strip())
             return votecount
         
     def write_votecount(votecount):
-        with open('/Users/arianna/jesus/votecount.txt', 'w') as file:
+        with open('/votecount.txt', 'w') as file:
             file.write(str(votecount))
 
     if confirmation.status_code == 200:
