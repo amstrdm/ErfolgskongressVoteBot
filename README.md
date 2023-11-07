@@ -1,2 +1,2 @@
-# ErfolgskongressVoteBot
-A Python script which is made to bot votes specifically for the Erfolgskongress Top speaker Vote. It bypasses email verification by using throaway mails since those do not get blocked, with a bit of tweaking it could probably be configured to work for botting in similar systems.
+ # ErfolgskongressVoteBot
+A Python script which is made to bot votes specifically for the Erfolgskongress Top speaker  Vote. It bypasses email verification by using throwaway mails since those do not get blocked. With a bit of tweaking it could probably be configured to work for botting in similar systems. It also randomizes names and usernames by randomly picking them out of two wordlists which are included in the repository. If needed the wordlists can be adjusted or replaced.
